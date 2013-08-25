@@ -3,8 +3,6 @@ FyD-1.4.7
 
 The 1.4.7 development files for the Familiar yet Different texture pack.
 
-###These files are out of date and no longer being worked on please see [1.5.2](https://github.com/Morton00000/FyD-1.5.1) for current files.
-
 ##[Feed the Beast forum post] (http://forum.feed-the-beast.com/threads/16x-familiar-yet-different-ftb-wip.633/)
 ***
 ##Distribution
