@@ -39,10 +39,10 @@ PC-Nether_Ores ------------- ???
 PC-Power_Converters -------- ???
 Petro_Gen ------------------ 1.2.1
 Railcraft ------------------ 6.17.0.0
-RedPower ------------------- 2.0 Prerelease 6
+Red_Power ------------------ 2.0 Prerelease 6
 Reliquary ------------------ 1.0.5d
 SoulShards ----------------- 1.26
 StevesCarts_2 -------------- ???
-Thaumcraft_3 --------------- 3.0.3"
+Thaumcraft_3 --------------- 3.0.3
 Twilight_Forest ------------ 1.15.4
 XY_Craft ------------------- 0.10.18
